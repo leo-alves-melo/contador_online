@@ -1,0 +1,12 @@
+<head>
+  <title>contador</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+  {{> info}}
+
+	<script src="server/mong.js"> </script>
+</body>
